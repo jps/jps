@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 - 👋 Hi, I’m @jps - James - I'm a software engineer based in London.
-- 👀 I’m interested in: web development mainly using Node.js and .NET, programming languages and software craftmanship.
-- 🔭 I’m currently working on News UK's product platform team building out [newskit.co.uk](https://newskit.co.uk) amoungst other things.
-- 🌱 I’m currently learning more AWS and Linux.
+- 👀 I’m interested in: web development mainly using Node.js and .NET, programming languages and software craftsmanship.
+- 🔭 I’m currently working at BPP Education Group building out their future platform.
+- 🌱 I’m currently learning more about AWS and Linux.
 - 📫 How to reach me - [DM me on twitter](https://twitter.com/jpspenc).
 - 😄 Pronouns: He, Him.
 
